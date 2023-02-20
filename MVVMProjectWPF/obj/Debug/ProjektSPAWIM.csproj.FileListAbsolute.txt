@@ -1,0 +1,16 @@
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\bin\Debug\ColorModes.exe.config
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\bin\Debug\ColorModes.exe
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\bin\Debug\ColorModes.pdb
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ProjektSPAWIM.csproj.AssemblyReference.cache
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\MainWindow.g.cs
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\App.g.cs
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ColorModes_MarkupCompile.cache
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ColorModes_MarkupCompile.lref
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\App.baml
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\MainWindow.baml
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ColorModes.g.resources
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ColorModes.Properties.Resources.resources
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ProjektSPAWIM.csproj.GenerateResource.cache
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ProjektSPAWIM.csproj.CoreCompileInputs.cache
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ColorModes.exe
+C:\Users\hryce\OneDrive\Pulpit\ProjektSPAWIM\obj\Debug\ColorModes.pdb

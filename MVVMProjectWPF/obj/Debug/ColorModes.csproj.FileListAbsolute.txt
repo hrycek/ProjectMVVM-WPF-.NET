@@ -1,0 +1,16 @@
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\bin\Debug\ColorModes.exe.config
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\bin\Debug\ColorModes.exe
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\bin\Debug\ColorModes.pdb
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.csproj.AssemblyReference.cache
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\MainWindow.g.cs
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\App.g.cs
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes_MarkupCompile.cache
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes_MarkupCompile.lref
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\App.baml
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\MainWindow.baml
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.g.resources
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.Properties.Resources.resources
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.csproj.GenerateResource.cache
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.csproj.CoreCompileInputs.cache
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.exe
+C:\Users\hryce\OneDrive\Pulpit\Color-Modes-main\obj\Debug\ColorModes.pdb
